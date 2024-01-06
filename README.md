@@ -35,17 +35,17 @@ __*<span style="color:red">IP address and Mac address hiding tool</span>*__ :wre
 
 # :dart:	:dart:	:dart:	Overview of the Main Window  :dart::dart:	:dart:	
 
-**<span style="color:red">[1]</span>**   **hide my ip once**
-**<span style="color:red">[2]</span>**   **hide my ip repeatedly**
-**<span style="color:red">[3]</span>**   **change ip**
-**<span style="color:red">[4]</span>**   **change my mac address**
-**<span style="color:red">[5]</span>**   **do it all**
-**<span style="color:red">[6]</span>**   **show ip**
-**<span style="color:red">[7]</span>**   **stop**
-**<span style="color:red">[8]</span>**   **clear**
-**<span style="color:red">[9]</span>**   **exit/quit**
-**<span style="color:red">[10]</span>**  **show ip_2**
-**<span style="color:red">[11]</span>**  **show ip_3**
+        [1]  hide my ip once
+        [2]  hide my ip repeatedly
+        [3]  change ip
+        [4]  change my mac address
+        [5]  do it all
+        [6]  show ip
+        [7]  stop
+        [8]  clear
+        [9]  exit/quit
+        [10] show ip_2
+        [11] show ip_3
 
 -------
 
