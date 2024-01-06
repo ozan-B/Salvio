@@ -17,8 +17,6 @@ __*<span style="color:red">IP address and Mac address hiding tool</span>*__ :wre
 
     chmod +x ip_show.sh
 
-    sudo python3 -m pip install -r requirements.txt
-
     sudo python3 Salvio.py 
 
 
